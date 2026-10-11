@@ -10,6 +10,8 @@ Awesome MCP Korea offers a carefully gathered list of MCP servers focused on the
 
 ## 📥 How to Download and Run
 
+- [Statsnet](https://github.com/usenetstate/statsnet-mcp) — Background check any company in the world: registration, executives, courts and finances. Remote MCP `https://statsnet.co/mcp` · `io.github.usenetstate/statsnet`
+
 To get started, you need to download the software from the official release page. This software will help you connect and interact with MCP servers listed for Korea.
 
 ### Step 1: Visit the Download Page
